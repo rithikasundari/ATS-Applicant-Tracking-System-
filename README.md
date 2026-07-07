@@ -154,4 +154,10 @@ This project demonstrates:
 
 ---
 
+## 🏢 Internship Experience
+
+Developed during my internship at Bank of Baroda (IT Department) as a full-stack web application project focused on recruitment process automation.
+
+---
+
 ⭐ If you found this project interesting, consider giving it a star!
