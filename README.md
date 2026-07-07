@@ -119,6 +119,19 @@ npm run dev
 
 ---
 
+## 🌟 Highlights
+
+- Secure Login & Registration
+- Email OTP Verification
+- Resume Upload System
+- Resume Parsing
+- Admin Dashboard
+- Candidate Tracking
+- MySQL Database Integration
+- JWT Authentication
+
+---
+
 ## 🚀 Future Enhancements
 
 - 🤖 AI-Based Resume Scoring
