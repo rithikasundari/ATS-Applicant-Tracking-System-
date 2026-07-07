@@ -10,6 +10,19 @@ The ATS platform helps organizations manage candidate applications efficiently. 
 
 ---
 
+## 🌟 Highlights
+
+- Secure Login & Registration
+- Email OTP Verification
+- Resume Upload System
+- Resume Parsing
+- Admin Dashboard
+- Candidate Tracking
+- MySQL Database Integration
+- JWT Authentication
+
+---
+
 ## ✨ Features
 
 ### 👨‍💼 Candidate Module
@@ -116,19 +129,6 @@ npm run dev
 ✅ Admin Dashboard
 
 ✅ Applicant Tracking
-
----
-
-## 🌟 Highlights
-
-- Secure Login & Registration
-- Email OTP Verification
-- Resume Upload System
-- Resume Parsing
-- Admin Dashboard
-- Candidate Tracking
-- MySQL Database Integration
-- JWT Authentication
 
 ---
 
